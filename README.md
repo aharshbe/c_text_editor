@@ -1,6 +1,6 @@
-#Text editor build in C</h1>
+# Text editor build in C</h1>
 
-##Purpose
+## Purpose
 
 * Allows user to:
 * 	Create a new file, can be a programming or other regular text file
